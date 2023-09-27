@@ -10,6 +10,11 @@ Fonctionnalités:
 *Compteur intégré pour marquer la progression du jeu.
 *Interface simple et épurée pour une meilleure expérience utilisateur.
 
+Statut du projet:
+Le projet est actuellement en phase de développement actif.
+Des mises à jour et des améliorations sont régulièrement apportées.
+Si vous avez des suggestions ou des retours, n'hésitez pas à les partager.
+
 Comment l'utiliser:
 
 Clonez le dépôt ou téléchargez-le.
@@ -18,7 +23,8 @@ Lancez l'application avec npm start.
 Suivez les phases du jeu et profitez d'une expérience de jeu améliorée !
 
 Déploiement:
-L'outil est également disponible en ligne, déployé grâce à Vercel. Vous pouvez le consulter et l'utiliser directement à l'adresse suivante : https://arkham-counter.vercel.app/.
+L'outil est également disponible en ligne, déployé grâce à Vercel.
+Vous pouvez le consulter et l'utiliser directement à l'adresse suivante : https://arkham-counter.vercel.app/.
 Technologies utilisées:
 React
 TypeScript
