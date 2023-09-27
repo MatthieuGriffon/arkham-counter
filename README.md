@@ -1,5 +1,7 @@
 Arkham Horror LCG Phase Tracker
+
 Description:
+
 Ce projet est un outil simple et intuitif destiné aux joueurs d'Arkham Horror: Le Jeu de Cartes (LCG). 
 Il permet de suivre les différentes phases du jeu, en assurant une progression fluide sans oublier d'étapes essentielles.
 Que vous soyez un joueur débutant cherchant à comprendre l'ordre des phases ou un vétéran souhaitant une aide visuelle, cet outil est fait pour vous.
