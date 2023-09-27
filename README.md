@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Arkham Horror LCG Phase Tracker
+Description:
+Ce projet est un outil simple et intuitif destiné aux joueurs d'Arkham Horror: Le Jeu de Cartes (LCG). 
+Il permet de suivre les différentes phases du jeu, en assurant une progression fluide sans oublier d'étapes essentielles.
+Que vous soyez un joueur débutant cherchant à comprendre l'ordre des phases ou un vétéran souhaitant une aide visuelle, cet outil est fait pour vous.
 
-## Getting Started
+Fonctionnalités:
 
-First, run the development server:
+*Suivi des différentes phases : Mythos, Investigation, Ennemis et Entretien.
+*Compteur intégré pour marquer la progression du jeu.
+*Interface simple et épurée pour une meilleure expérience utilisateur.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Comment l'utiliser:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Clonez le dépôt ou téléchargez-le.
+Installez les dépendances nécessaires avec npm install.
+Lancez l'application avec npm start.
+Suivez les phases du jeu et profitez d'une expérience de jeu améliorée !
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Déploiement:
+L'outil est également disponible en ligne, déployé grâce à Vercel. Vous pouvez le consulter et l'utiliser directement à l'adresse suivante : https://arkham-counter.vercel.app/.
+Technologies utilisées:
+React
+TypeScript
+CSS
+Contribution:
+Les contributions sont les bienvenues ! Si vous avez des suggestions ou des améliorations, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
