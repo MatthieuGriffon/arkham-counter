@@ -6,7 +6,7 @@ function UpkeepPhase() {
 
   return (
     <div className='flex flex-col'>
-      <h2 className='text-2xl'>Phase d'entretien</h2>
+      <h2 className='text-2xl'>Phase d&apos;entretien</h2>
       <li className='text-2xl'>Réinitialiser les actions (retournez les mini-cartes).</li>
       <li className='text-2xl'>Redresser toutes les cartes inclinées.</li>
       <li className='text-2xl'>Chaque investigateur pioche une carte et gagne une ressource.</li>
