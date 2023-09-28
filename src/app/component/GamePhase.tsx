@@ -3,8 +3,8 @@ import Counter from "./Counter";
 import { useCounter } from "./CounterContext";
 import MythosPhase from "./MythosPhase";
 import InvestigationPhase from "./InvestigationPhase";
-import EnemiesPhase from './EnemiesPhase'; // Assurez-vous de l'importer
-import UpkeepPhase from './UpkeepPhase'; // Assurez-vous de l'importer
+import EnemiesPhase from './EnemiesPhase'; 
+import UpkeepPhase from './UpkeepPhase';
 
 const GamePhases: React.FC = () => {
   const { count, setCount } = useCounter();
@@ -38,8 +38,7 @@ const GamePhases: React.FC = () => {
       {currentPhase === 'InvestigationPhase' && <InvestigationPhase />}
       {currentPhase === 'EnemiesPhase' && <EnemiesPhase />}
       {currentPhase === 'UpkeepPhase' && <UpkeepPhase />}
-      
-      <button className=' text-xl bg-red-600 rounded-xl p-5 ' onClick={handleNextPhase}>Prochaine Phase</button>
+      <button className=' text-xl bg-red-600 rounded-xl p-5 m-1' onClick={handleNextPhase}>Prochaine Phase</button>
     </>
   );
 }

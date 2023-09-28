@@ -8,11 +8,11 @@ const MythosPhase: React.FC = () => {
 
   if (count !== 0) {
     return (
-      <div className='flex flex-col'>
-        <h2 className='text-2xl'>Phase du Mythe</h2>
-        <li className='text-2xl'>Placer une fatalité sur l&apos;intrigue.</li>
-        <li className='text-2xl'>Avancer l&apos;intrigue si le seuil de fatalité est atteint.</li>
-        <li className='text-2xl'>Chaque investigateur pioche une carte du dessus du deck Rencontre.</li>
+      <div className='flex flex-col text-xl'>
+        <h2 className=''>Phase du Mythe</h2>
+        <li className=''>Placer une fatalité sur l&apos;intrigue.</li>
+        <li className=''>Avancer l&apos;intrigue si le seuil de fatalité est atteint.</li>
+        <li className=''>Chaque investigateur pioche une carte du dessus du deck Rencontre.</li>
       </div>
     );
   } else {
